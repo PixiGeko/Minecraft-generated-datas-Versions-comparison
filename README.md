@@ -1,1 +1,4 @@
-# :x: Nothing changed in this version :x:
+# Registries
+| Added | Changed | Removed |
+|-------|---------|---------|
+|  | [biome](./registries/biome.json) |  |

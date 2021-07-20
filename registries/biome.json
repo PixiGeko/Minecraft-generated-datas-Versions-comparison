@@ -1,4 +1,8 @@
 {
+  "added": [
+    "minecraft:extreme_hills",
+    "minecraft:gravelly_hills"
+  ],
   "common": [
     "minecraft:badlands",
     "minecraft:badlands_plateau",
@@ -33,19 +37,20 @@
     "minecraft:giant_spruce_taiga_hills",
     "minecraft:giant_tree_taiga",
     "minecraft:giant_tree_taiga_hills",
-    "minecraft:gravelly_mountains",
+    "minecraft:grove",
     "minecraft:ice_spikes",
     "minecraft:jungle",
     "minecraft:jungle_edge",
     "minecraft:jungle_hills",
+    "minecraft:lofty_peaks",
     "minecraft:lukewarm_ocean",
     "minecraft:lush_caves",
+    "minecraft:meadow",
     "minecraft:modified_badlands_plateau",
     "minecraft:modified_gravelly_mountains",
     "minecraft:modified_jungle",
     "minecraft:modified_jungle_edge",
     "minecraft:modified_wooded_badlands_plateau",
-    "minecraft:mountains",
     "minecraft:mountain_edge",
     "minecraft:mushroom_fields",
     "minecraft:mushroom_field_shore",
@@ -58,8 +63,10 @@
     "minecraft:shattered_savanna",
     "minecraft:shattered_savanna_plateau",
     "minecraft:small_end_islands",
+    "minecraft:snowcapped_peaks",
     "minecraft:snowy_beach",
     "minecraft:snowy_mountains",
+    "minecraft:snowy_slopes",
     "minecraft:snowy_taiga",
     "minecraft:snowy_taiga_hills",
     "minecraft:snowy_taiga_mountains",
@@ -81,5 +88,9 @@
     "minecraft:wooded_badlands_plateau",
     "minecraft:wooded_hills",
     "minecraft:wooded_mountains"
+  ],
+  "removed": [
+    "minecraft:gravelly_mountains",
+    "minecraft:mountains"
   ]
 }
