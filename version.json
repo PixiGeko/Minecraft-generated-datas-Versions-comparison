@@ -1,14 +1,3 @@
 {
-  "files": {
-    "registries": {
-      "changed": [
-        "advancement",
-        "biome",
-        "recipe",
-        "worldgen - biome_source",
-        "worldgen - block_state_provider_type",
-        "worldgen - surface_builder"
-      ]
-    }
-  }
+  "files": {}
 }

@@ -1,13 +1,11 @@
 {
   "common": [
     "minecraft:forest_flower_provider",
+    "minecraft:meadow_flower_provider",
     "minecraft:plain_flower_provider",
     "minecraft:randomized_int_state_provider",
     "minecraft:rotated_block_provider",
     "minecraft:simple_state_provider",
     "minecraft:weighted_state_provider"
-  ],
-  "removed": [
-    "minecraft:meadow_flower_provider"
   ]
 }
