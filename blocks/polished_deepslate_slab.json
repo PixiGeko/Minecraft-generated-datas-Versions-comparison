@@ -1,5 +1,10 @@
 {
-  "added": [
-    "polished_deepslate_slab"
+  "common": [
+    "polished_deepslate_slab[type=top,waterlogged=true]",
+    "polished_deepslate_slab[type=top,waterlogged=false]",
+    "polished_deepslate_slab[type=bottom,waterlogged=true]",
+    "polished_deepslate_slab[type=bottom,waterlogged=false]",
+    "polished_deepslate_slab[type=double,waterlogged=true]",
+    "polished_deepslate_slab[type=double,waterlogged=false]"
   ]
 }

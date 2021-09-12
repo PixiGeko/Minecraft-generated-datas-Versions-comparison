@@ -1,5 +1,10 @@
 {
-  "added": [
-    "oxidized_cut_copper_slab"
+  "common": [
+    "oxidized_cut_copper_slab[type=top,waterlogged=true]",
+    "oxidized_cut_copper_slab[type=top,waterlogged=false]",
+    "oxidized_cut_copper_slab[type=bottom,waterlogged=true]",
+    "oxidized_cut_copper_slab[type=bottom,waterlogged=false]",
+    "oxidized_cut_copper_slab[type=double,waterlogged=true]",
+    "oxidized_cut_copper_slab[type=double,waterlogged=false]"
   ]
 }

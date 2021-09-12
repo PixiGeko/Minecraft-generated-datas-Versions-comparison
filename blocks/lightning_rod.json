@@ -1,5 +1,28 @@
 {
-  "added": [
-    "lightning_rod"
+  "common": [
+    "lightning_rod[facing=north,powered=true,waterlogged=true]",
+    "lightning_rod[facing=north,powered=true,waterlogged=false]",
+    "lightning_rod[facing=north,powered=false,waterlogged=true]",
+    "lightning_rod[facing=north,powered=false,waterlogged=false]",
+    "lightning_rod[facing=east,powered=true,waterlogged=true]",
+    "lightning_rod[facing=east,powered=true,waterlogged=false]",
+    "lightning_rod[facing=east,powered=false,waterlogged=true]",
+    "lightning_rod[facing=east,powered=false,waterlogged=false]",
+    "lightning_rod[facing=south,powered=true,waterlogged=true]",
+    "lightning_rod[facing=south,powered=true,waterlogged=false]",
+    "lightning_rod[facing=south,powered=false,waterlogged=true]",
+    "lightning_rod[facing=south,powered=false,waterlogged=false]",
+    "lightning_rod[facing=west,powered=true,waterlogged=true]",
+    "lightning_rod[facing=west,powered=true,waterlogged=false]",
+    "lightning_rod[facing=west,powered=false,waterlogged=true]",
+    "lightning_rod[facing=west,powered=false,waterlogged=false]",
+    "lightning_rod[facing=up,powered=true,waterlogged=true]",
+    "lightning_rod[facing=up,powered=true,waterlogged=false]",
+    "lightning_rod[facing=up,powered=false,waterlogged=true]",
+    "lightning_rod[facing=up,powered=false,waterlogged=false]",
+    "lightning_rod[facing=down,powered=true,waterlogged=true]",
+    "lightning_rod[facing=down,powered=true,waterlogged=false]",
+    "lightning_rod[facing=down,powered=false,waterlogged=true]",
+    "lightning_rod[facing=down,powered=false,waterlogged=false]"
   ]
 }

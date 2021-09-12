@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "powered_rail[powered=true,shape=north_south,waterlogged=true]",
     "powered_rail[powered=true,shape=north_south,waterlogged=false]",
     "powered_rail[powered=true,shape=east_west,waterlogged=true]",
@@ -24,19 +24,5 @@
     "powered_rail[powered=false,shape=ascending_north,waterlogged=false]",
     "powered_rail[powered=false,shape=ascending_south,waterlogged=true]",
     "powered_rail[powered=false,shape=ascending_south,waterlogged=false]"
-  ],
-  "removed": [
-    "powered_rail[powered=true,shape=north_south]",
-    "powered_rail[powered=true,shape=east_west]",
-    "powered_rail[powered=true,shape=ascending_east]",
-    "powered_rail[powered=true,shape=ascending_west]",
-    "powered_rail[powered=true,shape=ascending_north]",
-    "powered_rail[powered=true,shape=ascending_south]",
-    "powered_rail[powered=false,shape=north_south]",
-    "powered_rail[powered=false,shape=east_west]",
-    "powered_rail[powered=false,shape=ascending_east]",
-    "powered_rail[powered=false,shape=ascending_west]",
-    "powered_rail[powered=false,shape=ascending_north]",
-    "powered_rail[powered=false,shape=ascending_south]"
   ]
 }

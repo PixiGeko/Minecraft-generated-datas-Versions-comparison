@@ -1,5 +1,12 @@
 {
-  "added": [
-    "big_dripleaf_stem"
+  "common": [
+    "big_dripleaf_stem[facing=north,waterlogged=true]",
+    "big_dripleaf_stem[facing=north,waterlogged=false]",
+    "big_dripleaf_stem[facing=south,waterlogged=true]",
+    "big_dripleaf_stem[facing=south,waterlogged=false]",
+    "big_dripleaf_stem[facing=west,waterlogged=true]",
+    "big_dripleaf_stem[facing=west,waterlogged=false]",
+    "big_dripleaf_stem[facing=east,waterlogged=true]",
+    "big_dripleaf_stem[facing=east,waterlogged=false]"
   ]
 }

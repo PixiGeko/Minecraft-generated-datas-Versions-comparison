@@ -1,5 +1,20 @@
 {
-  "added": [
-    "lime_candle"
+  "common": [
+    "lime_candle[candles=1,lit=true,waterlogged=true]",
+    "lime_candle[candles=1,lit=true,waterlogged=false]",
+    "lime_candle[candles=1,lit=false,waterlogged=true]",
+    "lime_candle[candles=1,lit=false,waterlogged=false]",
+    "lime_candle[candles=2,lit=true,waterlogged=true]",
+    "lime_candle[candles=2,lit=true,waterlogged=false]",
+    "lime_candle[candles=2,lit=false,waterlogged=true]",
+    "lime_candle[candles=2,lit=false,waterlogged=false]",
+    "lime_candle[candles=3,lit=true,waterlogged=true]",
+    "lime_candle[candles=3,lit=true,waterlogged=false]",
+    "lime_candle[candles=3,lit=false,waterlogged=true]",
+    "lime_candle[candles=3,lit=false,waterlogged=false]",
+    "lime_candle[candles=4,lit=true,waterlogged=true]",
+    "lime_candle[candles=4,lit=true,waterlogged=false]",
+    "lime_candle[candles=4,lit=false,waterlogged=true]",
+    "lime_candle[candles=4,lit=false,waterlogged=false]"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "common": [
+    "difficulty peaceful",
     "difficulty easy",
-    "difficulty hard",
     "difficulty normal",
-    "difficulty peaceful"
+    "difficulty hard"
   ]
 }

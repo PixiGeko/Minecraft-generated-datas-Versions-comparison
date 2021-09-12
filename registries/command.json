@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:item",
-    "minecraft:perf"
-  ],
   "common": [
     "minecraft:advancement",
     "minecraft:attribute",
@@ -29,6 +25,7 @@
     "minecraft:gamerule",
     "minecraft:give",
     "minecraft:help",
+    "minecraft:item",
     "minecraft:kick",
     "minecraft:kill",
     "minecraft:list",
@@ -41,6 +38,7 @@
     "minecraft:pardon",
     "minecraft:pardon-ip",
     "minecraft:particle",
+    "minecraft:perf",
     "minecraft:playsound",
     "minecraft:publish",
     "minecraft:recipe",
@@ -77,8 +75,5 @@
     "minecraft:whitelist",
     "minecraft:worldborder",
     "minecraft:xp"
-  ],
-  "removed": [
-    "minecraft:replaceitem"
   ]
 }

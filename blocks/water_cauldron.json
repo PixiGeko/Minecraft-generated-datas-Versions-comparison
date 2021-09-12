@@ -1,5 +1,7 @@
 {
-  "added": [
-    "water_cauldron"
+  "common": [
+    "water_cauldron[level=1]",
+    "water_cauldron[level=2]",
+    "water_cauldron[level=3]"
   ]
 }

@@ -1,5 +1,18 @@
 {
-  "added": [
-    "azalea_leaves"
+  "common": [
+    "azalea_leaves[distance=1,persistent=true]",
+    "azalea_leaves[distance=1,persistent=false]",
+    "azalea_leaves[distance=2,persistent=true]",
+    "azalea_leaves[distance=2,persistent=false]",
+    "azalea_leaves[distance=3,persistent=true]",
+    "azalea_leaves[distance=3,persistent=false]",
+    "azalea_leaves[distance=4,persistent=true]",
+    "azalea_leaves[distance=4,persistent=false]",
+    "azalea_leaves[distance=5,persistent=true]",
+    "azalea_leaves[distance=5,persistent=false]",
+    "azalea_leaves[distance=6,persistent=true]",
+    "azalea_leaves[distance=6,persistent=false]",
+    "azalea_leaves[distance=7,persistent=true]",
+    "azalea_leaves[distance=7,persistent=false]"
   ]
 }

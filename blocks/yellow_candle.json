@@ -1,5 +1,20 @@
 {
-  "added": [
-    "yellow_candle"
+  "common": [
+    "yellow_candle[candles=1,lit=true,waterlogged=true]",
+    "yellow_candle[candles=1,lit=true,waterlogged=false]",
+    "yellow_candle[candles=1,lit=false,waterlogged=true]",
+    "yellow_candle[candles=1,lit=false,waterlogged=false]",
+    "yellow_candle[candles=2,lit=true,waterlogged=true]",
+    "yellow_candle[candles=2,lit=true,waterlogged=false]",
+    "yellow_candle[candles=2,lit=false,waterlogged=true]",
+    "yellow_candle[candles=2,lit=false,waterlogged=false]",
+    "yellow_candle[candles=3,lit=true,waterlogged=true]",
+    "yellow_candle[candles=3,lit=true,waterlogged=false]",
+    "yellow_candle[candles=3,lit=false,waterlogged=true]",
+    "yellow_candle[candles=3,lit=false,waterlogged=false]",
+    "yellow_candle[candles=4,lit=true,waterlogged=true]",
+    "yellow_candle[candles=4,lit=true,waterlogged=false]",
+    "yellow_candle[candles=4,lit=false,waterlogged=true]",
+    "yellow_candle[candles=4,lit=false,waterlogged=false]"
   ]
 }

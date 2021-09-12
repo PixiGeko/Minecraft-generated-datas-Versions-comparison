@@ -1,8 +1,4 @@
 {
-  "added": [
-    "minecraft:play_time",
-    "minecraft:total_world_time"
-  ],
   "common": [
     "minecraft:animals_bred",
     "minecraft:aviate_one_cm",
@@ -57,6 +53,7 @@
     "minecraft:pig_one_cm",
     "minecraft:play_noteblock",
     "minecraft:play_record",
+    "minecraft:play_time",
     "minecraft:player_kills",
     "minecraft:pot_flower",
     "minecraft:raid_trigger",
@@ -70,6 +67,7 @@
     "minecraft:target_hit",
     "minecraft:time_since_death",
     "minecraft:time_since_rest",
+    "minecraft:total_world_time",
     "minecraft:traded_with_villager",
     "minecraft:trigger_trapped_chest",
     "minecraft:tune_noteblock",
@@ -77,8 +75,5 @@
     "minecraft:walk_on_water_one_cm",
     "minecraft:walk_one_cm",
     "minecraft:walk_under_water_one_cm"
-  ],
-  "removed": [
-    "minecraft:play_one_minute"
   ]
 }

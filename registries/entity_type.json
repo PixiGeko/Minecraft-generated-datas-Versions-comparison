@@ -1,15 +1,9 @@
 {
-  "added": [
-    "minecraft:axolotl",
-    "minecraft:glow_item_frame",
-    "minecraft:glow_squid",
-    "minecraft:goat",
-    "minecraft:marker"
-  ],
   "common": [
     "minecraft:area_effect_cloud",
     "minecraft:armor_stand",
     "minecraft:arrow",
+    "minecraft:axolotl",
     "minecraft:bat",
     "minecraft:bee",
     "minecraft:blaze",
@@ -46,6 +40,9 @@
     "minecraft:furnace_minecart",
     "minecraft:ghast",
     "minecraft:giant",
+    "minecraft:glow_item_frame",
+    "minecraft:glow_squid",
+    "minecraft:goat",
     "minecraft:guardian",
     "minecraft:hoglin",
     "minecraft:hopper_minecart",
@@ -60,6 +57,7 @@
     "minecraft:llama",
     "minecraft:llama_spit",
     "minecraft:magma_cube",
+    "minecraft:marker",
     "minecraft:minecart",
     "minecraft:mooshroom",
     "minecraft:mule",

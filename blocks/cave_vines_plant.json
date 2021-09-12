@@ -1,5 +1,6 @@
 {
-  "added": [
-    "cave_vines_plant"
+  "common": [
+    "cave_vines_plant[berries=true]",
+    "cave_vines_plant[berries=false]"
   ]
 }

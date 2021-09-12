@@ -1,5 +1,20 @@
 {
-  "added": [
-    "small_dripleaf"
+  "common": [
+    "small_dripleaf[facing=north,half=upper,waterlogged=true]",
+    "small_dripleaf[facing=north,half=upper,waterlogged=false]",
+    "small_dripleaf[facing=north,half=lower,waterlogged=true]",
+    "small_dripleaf[facing=north,half=lower,waterlogged=false]",
+    "small_dripleaf[facing=south,half=upper,waterlogged=true]",
+    "small_dripleaf[facing=south,half=upper,waterlogged=false]",
+    "small_dripleaf[facing=south,half=lower,waterlogged=true]",
+    "small_dripleaf[facing=south,half=lower,waterlogged=false]",
+    "small_dripleaf[facing=west,half=upper,waterlogged=true]",
+    "small_dripleaf[facing=west,half=upper,waterlogged=false]",
+    "small_dripleaf[facing=west,half=lower,waterlogged=true]",
+    "small_dripleaf[facing=west,half=lower,waterlogged=false]",
+    "small_dripleaf[facing=east,half=upper,waterlogged=true]",
+    "small_dripleaf[facing=east,half=upper,waterlogged=false]",
+    "small_dripleaf[facing=east,half=lower,waterlogged=true]",
+    "small_dripleaf[facing=east,half=lower,waterlogged=false]"
   ]
 }

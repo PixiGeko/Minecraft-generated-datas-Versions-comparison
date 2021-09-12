@@ -1,10 +1,7 @@
 {
-  "added": [
-    "minecraft:cave_surface",
-    "minecraft:water_depth_threshold"
-  ],
   "common": [
     "minecraft:carving_mask",
+    "minecraft:cave_surface",
     "minecraft:chance",
     "minecraft:count",
     "minecraft:count_extra",
@@ -21,19 +18,7 @@
     "minecraft:nope",
     "minecraft:range",
     "minecraft:spread_32_above",
-    "minecraft:square"
-  ],
-  "removed": [
-    "minecraft:depth_average",
-    "minecraft:emerald_ore",
-    "minecraft:end_island",
-    "minecraft:fire",
-    "minecraft:glowstone",
-    "minecraft:heightmap_world_surface",
-    "minecraft:magma",
-    "minecraft:range_biased",
-    "minecraft:range_very_biased",
-    "minecraft:top_solid_heightmap",
-    "minecraft:water_lake"
+    "minecraft:square",
+    "minecraft:water_depth_threshold"
   ]
 }

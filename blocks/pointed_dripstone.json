@@ -1,5 +1,24 @@
 {
-  "added": [
-    "pointed_dripstone"
+  "common": [
+    "pointed_dripstone[thickness=tip_merge,vertical_direction=up,waterlogged=true]",
+    "pointed_dripstone[thickness=tip_merge,vertical_direction=up,waterlogged=false]",
+    "pointed_dripstone[thickness=tip_merge,vertical_direction=down,waterlogged=true]",
+    "pointed_dripstone[thickness=tip_merge,vertical_direction=down,waterlogged=false]",
+    "pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=true]",
+    "pointed_dripstone[thickness=tip,vertical_direction=up,waterlogged=false]",
+    "pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=true]",
+    "pointed_dripstone[thickness=tip,vertical_direction=down,waterlogged=false]",
+    "pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=true]",
+    "pointed_dripstone[thickness=frustum,vertical_direction=up,waterlogged=false]",
+    "pointed_dripstone[thickness=frustum,vertical_direction=down,waterlogged=true]",
+    "pointed_dripstone[thickness=frustum,vertical_direction=down,waterlogged=false]",
+    "pointed_dripstone[thickness=middle,vertical_direction=up,waterlogged=true]",
+    "pointed_dripstone[thickness=middle,vertical_direction=up,waterlogged=false]",
+    "pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=true]",
+    "pointed_dripstone[thickness=middle,vertical_direction=down,waterlogged=false]",
+    "pointed_dripstone[thickness=base,vertical_direction=up,waterlogged=true]",
+    "pointed_dripstone[thickness=base,vertical_direction=up,waterlogged=false]",
+    "pointed_dripstone[thickness=base,vertical_direction=down,waterlogged=true]",
+    "pointed_dripstone[thickness=base,vertical_direction=down,waterlogged=false]"
   ]
 }

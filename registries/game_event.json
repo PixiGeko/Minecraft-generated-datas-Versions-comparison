@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "minecraft:block_attach",
     "minecraft:block_change",
     "minecraft:block_close",

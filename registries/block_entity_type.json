@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:sculk_sensor"
-  ],
   "common": [
     "minecraft:banner",
     "minecraft:barrel",
@@ -30,6 +27,7 @@
     "minecraft:lectern",
     "minecraft:mob_spawner",
     "minecraft:piston",
+    "minecraft:sculk_sensor",
     "minecraft:shulker_box",
     "minecraft:sign",
     "minecraft:skull",

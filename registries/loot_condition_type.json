@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:value_check"
-  ],
   "common": [
     "minecraft:alternative",
     "minecraft:block_state_property",
@@ -18,6 +15,7 @@
     "minecraft:survives_explosion",
     "minecraft:table_bonus",
     "minecraft:time_check",
+    "minecraft:value_check",
     "minecraft:weather_check"
   ]
 }

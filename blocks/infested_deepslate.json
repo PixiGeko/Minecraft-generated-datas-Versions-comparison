@@ -1,5 +1,7 @@
 {
-  "added": [
-    "infested_deepslate"
+  "common": [
+    "infested_deepslate[axis=x]",
+    "infested_deepslate[axis=y]",
+    "infested_deepslate[axis=z]"
   ]
 }

@@ -1,12 +1,7 @@
 {
-  "added": [
-    "debug function <name: function>"
-  ],
   "common": [
     "debug start",
-    "debug stop"
-  ],
-  "removed": [
-    "debug report"
+    "debug stop",
+    "debug function <name: function>"
   ]
 }

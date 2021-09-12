@@ -1,5 +1,16 @@
 {
-  "added": [
-    "large_amethyst_bud"
+  "common": [
+    "large_amethyst_bud[facing=north,waterlogged=true]",
+    "large_amethyst_bud[facing=north,waterlogged=false]",
+    "large_amethyst_bud[facing=east,waterlogged=true]",
+    "large_amethyst_bud[facing=east,waterlogged=false]",
+    "large_amethyst_bud[facing=south,waterlogged=true]",
+    "large_amethyst_bud[facing=south,waterlogged=false]",
+    "large_amethyst_bud[facing=west,waterlogged=true]",
+    "large_amethyst_bud[facing=west,waterlogged=false]",
+    "large_amethyst_bud[facing=up,waterlogged=true]",
+    "large_amethyst_bud[facing=up,waterlogged=false]",
+    "large_amethyst_bud[facing=down,waterlogged=true]",
+    "large_amethyst_bud[facing=down,waterlogged=false]"
   ]
 }

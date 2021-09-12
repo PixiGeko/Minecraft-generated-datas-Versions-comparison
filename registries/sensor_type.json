@@ -1,11 +1,9 @@
 {
-  "added": [
+  "common": [
     "minecraft:axolotl_attackables",
     "minecraft:axolotl_temptations",
-    "minecraft:goat_temptations"
-  ],
-  "common": [
     "minecraft:dummy",
+    "minecraft:goat_temptations",
     "minecraft:golem_detected",
     "minecraft:hoglin_specific_sensor",
     "minecraft:hurt_by",

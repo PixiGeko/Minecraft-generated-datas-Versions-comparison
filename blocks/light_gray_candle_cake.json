@@ -1,5 +1,6 @@
 {
-  "added": [
-    "light_gray_candle_cake"
+  "common": [
+    "light_gray_candle_cake[lit=true]",
+    "light_gray_candle_cake[lit=false]"
   ]
 }

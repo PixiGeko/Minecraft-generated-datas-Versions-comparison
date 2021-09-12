@@ -1,5 +1,10 @@
 {
-  "added": [
-    "cut_copper_slab"
+  "common": [
+    "cut_copper_slab[type=top,waterlogged=true]",
+    "cut_copper_slab[type=top,waterlogged=false]",
+    "cut_copper_slab[type=bottom,waterlogged=true]",
+    "cut_copper_slab[type=bottom,waterlogged=false]",
+    "cut_copper_slab[type=double,waterlogged=true]",
+    "cut_copper_slab[type=double,waterlogged=false]"
   ]
 }

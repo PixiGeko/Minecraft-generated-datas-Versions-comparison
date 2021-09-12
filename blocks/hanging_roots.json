@@ -1,5 +1,6 @@
 {
-  "added": [
-    "hanging_roots"
+  "common": [
+    "hanging_roots[waterlogged=true]",
+    "hanging_roots[waterlogged=false]"
   ]
 }

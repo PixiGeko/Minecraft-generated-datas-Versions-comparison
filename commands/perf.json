@@ -1,5 +1,5 @@
 {
-  "added": [
+  "common": [
     "perf start",
     "perf stop"
   ]

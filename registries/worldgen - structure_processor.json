@@ -1,7 +1,4 @@
 {
-  "added": [
-    "minecraft:protected_blocks"
-  ],
   "common": [
     "minecraft:blackstone_replace",
     "minecraft:block_age",
@@ -11,6 +8,7 @@
     "minecraft:jigsaw_replacement",
     "minecraft:lava_submerged_block",
     "minecraft:nop",
+    "minecraft:protected_blocks",
     "minecraft:rule"
   ]
 }

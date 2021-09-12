@@ -1,5 +1,36 @@
 {
-  "added": [
-    "big_dripleaf"
+  "common": [
+    "big_dripleaf[facing=north,tilt=none,waterlogged=true]",
+    "big_dripleaf[facing=north,tilt=none,waterlogged=false]",
+    "big_dripleaf[facing=north,tilt=unstable,waterlogged=true]",
+    "big_dripleaf[facing=north,tilt=unstable,waterlogged=false]",
+    "big_dripleaf[facing=north,tilt=partial,waterlogged=true]",
+    "big_dripleaf[facing=north,tilt=partial,waterlogged=false]",
+    "big_dripleaf[facing=north,tilt=full,waterlogged=true]",
+    "big_dripleaf[facing=north,tilt=full,waterlogged=false]",
+    "big_dripleaf[facing=south,tilt=none,waterlogged=true]",
+    "big_dripleaf[facing=south,tilt=none,waterlogged=false]",
+    "big_dripleaf[facing=south,tilt=unstable,waterlogged=true]",
+    "big_dripleaf[facing=south,tilt=unstable,waterlogged=false]",
+    "big_dripleaf[facing=south,tilt=partial,waterlogged=true]",
+    "big_dripleaf[facing=south,tilt=partial,waterlogged=false]",
+    "big_dripleaf[facing=south,tilt=full,waterlogged=true]",
+    "big_dripleaf[facing=south,tilt=full,waterlogged=false]",
+    "big_dripleaf[facing=west,tilt=none,waterlogged=true]",
+    "big_dripleaf[facing=west,tilt=none,waterlogged=false]",
+    "big_dripleaf[facing=west,tilt=unstable,waterlogged=true]",
+    "big_dripleaf[facing=west,tilt=unstable,waterlogged=false]",
+    "big_dripleaf[facing=west,tilt=partial,waterlogged=true]",
+    "big_dripleaf[facing=west,tilt=partial,waterlogged=false]",
+    "big_dripleaf[facing=west,tilt=full,waterlogged=true]",
+    "big_dripleaf[facing=west,tilt=full,waterlogged=false]",
+    "big_dripleaf[facing=east,tilt=none,waterlogged=true]",
+    "big_dripleaf[facing=east,tilt=none,waterlogged=false]",
+    "big_dripleaf[facing=east,tilt=unstable,waterlogged=true]",
+    "big_dripleaf[facing=east,tilt=unstable,waterlogged=false]",
+    "big_dripleaf[facing=east,tilt=partial,waterlogged=true]",
+    "big_dripleaf[facing=east,tilt=partial,waterlogged=false]",
+    "big_dripleaf[facing=east,tilt=full,waterlogged=true]",
+    "big_dripleaf[facing=east,tilt=full,waterlogged=false]"
   ]
 }

@@ -1,5 +1,10 @@
 {
-  "added": [
-    "deepslate_tile_slab"
+  "common": [
+    "deepslate_tile_slab[type=top,waterlogged=true]",
+    "deepslate_tile_slab[type=top,waterlogged=false]",
+    "deepslate_tile_slab[type=bottom,waterlogged=true]",
+    "deepslate_tile_slab[type=bottom,waterlogged=false]",
+    "deepslate_tile_slab[type=double,waterlogged=true]",
+    "deepslate_tile_slab[type=double,waterlogged=false]"
   ]
 }

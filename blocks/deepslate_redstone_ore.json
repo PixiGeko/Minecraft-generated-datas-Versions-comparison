@@ -1,5 +1,6 @@
 {
-  "added": [
-    "deepslate_redstone_ore"
+  "common": [
+    "deepslate_redstone_ore[lit=true]",
+    "deepslate_redstone_ore[lit=false]"
   ]
 }

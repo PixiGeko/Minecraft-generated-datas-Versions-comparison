@@ -1,5 +1,10 @@
 {
-  "added": [
-    "deepslate_brick_slab"
+  "common": [
+    "deepslate_brick_slab[type=top,waterlogged=true]",
+    "deepslate_brick_slab[type=top,waterlogged=false]",
+    "deepslate_brick_slab[type=bottom,waterlogged=true]",
+    "deepslate_brick_slab[type=bottom,waterlogged=false]",
+    "deepslate_brick_slab[type=double,waterlogged=true]",
+    "deepslate_brick_slab[type=double,waterlogged=false]"
   ]
 }

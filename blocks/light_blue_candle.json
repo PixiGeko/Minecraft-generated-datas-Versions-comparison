@@ -1,5 +1,20 @@
 {
-  "added": [
-    "light_blue_candle"
+  "common": [
+    "light_blue_candle[candles=1,lit=true,waterlogged=true]",
+    "light_blue_candle[candles=1,lit=true,waterlogged=false]",
+    "light_blue_candle[candles=1,lit=false,waterlogged=true]",
+    "light_blue_candle[candles=1,lit=false,waterlogged=false]",
+    "light_blue_candle[candles=2,lit=true,waterlogged=true]",
+    "light_blue_candle[candles=2,lit=true,waterlogged=false]",
+    "light_blue_candle[candles=2,lit=false,waterlogged=true]",
+    "light_blue_candle[candles=2,lit=false,waterlogged=false]",
+    "light_blue_candle[candles=3,lit=true,waterlogged=true]",
+    "light_blue_candle[candles=3,lit=true,waterlogged=false]",
+    "light_blue_candle[candles=3,lit=false,waterlogged=true]",
+    "light_blue_candle[candles=3,lit=false,waterlogged=false]",
+    "light_blue_candle[candles=4,lit=true,waterlogged=true]",
+    "light_blue_candle[candles=4,lit=true,waterlogged=false]",
+    "light_blue_candle[candles=4,lit=false,waterlogged=true]",
+    "light_blue_candle[candles=4,lit=false,waterlogged=false]"
   ]
 }

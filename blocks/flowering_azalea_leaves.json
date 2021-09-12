@@ -1,5 +1,18 @@
 {
-  "added": [
-    "flowering_azalea_leaves"
+  "common": [
+    "flowering_azalea_leaves[distance=1,persistent=true]",
+    "flowering_azalea_leaves[distance=1,persistent=false]",
+    "flowering_azalea_leaves[distance=2,persistent=true]",
+    "flowering_azalea_leaves[distance=2,persistent=false]",
+    "flowering_azalea_leaves[distance=3,persistent=true]",
+    "flowering_azalea_leaves[distance=3,persistent=false]",
+    "flowering_azalea_leaves[distance=4,persistent=true]",
+    "flowering_azalea_leaves[distance=4,persistent=false]",
+    "flowering_azalea_leaves[distance=5,persistent=true]",
+    "flowering_azalea_leaves[distance=5,persistent=false]",
+    "flowering_azalea_leaves[distance=6,persistent=true]",
+    "flowering_azalea_leaves[distance=6,persistent=false]",
+    "flowering_azalea_leaves[distance=7,persistent=true]",
+    "flowering_azalea_leaves[distance=7,persistent=false]"
   ]
 }
