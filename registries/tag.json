@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:blocks/lava_pool_stone_cannot_replace"
+  ],
   "common": [
     "minecraft:blocks/acacia_logs",
     "minecraft:blocks/anvil",
@@ -55,7 +58,6 @@
     "minecraft:blocks/iron_ores",
     "minecraft:blocks/jungle_logs",
     "minecraft:blocks/lapis_ores",
-    "minecraft:blocks/lava_pool_stone_replaceables",
     "minecraft:blocks/leaves",
     "minecraft:blocks/logs",
     "minecraft:blocks/logs_that_burn",
@@ -201,5 +203,8 @@
     "minecraft:items/wooden_stairs",
     "minecraft:items/wooden_trapdoors",
     "minecraft:items/wool"
+  ],
+  "removed": [
+    "minecraft:blocks/lava_pool_stone_replaceables"
   ]
 }

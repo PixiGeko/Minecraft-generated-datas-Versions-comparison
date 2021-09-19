@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:jfr"
+  ],
   "common": [
     "minecraft:advancement",
     "minecraft:attribute",

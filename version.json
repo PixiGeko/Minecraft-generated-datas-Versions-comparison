@@ -1,3 +1,21 @@
 {
-  "files": {}
+  "files": {
+    "commands": {
+      "added": [
+        "jfr"
+      ]
+    },
+    "registries": {
+      "changed": [
+        "biome",
+        "command",
+        "sound_event",
+        "tag",
+        "worldgen - biome_source",
+        "worldgen - block_state_provider_type",
+        "worldgen - decorator",
+        "worldgen - surface_builder"
+      ]
+    }
+  }
 }

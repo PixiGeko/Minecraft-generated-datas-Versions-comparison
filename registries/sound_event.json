@@ -1,4 +1,9 @@
 {
+  "added": [
+    "minecraft:item.bundle.drop_contents",
+    "minecraft:item.bundle.insert",
+    "minecraft:item.bundle.remove_one"
+  ],
   "common": [
     "minecraft:ambient.basalt_deltas.additions",
     "minecraft:ambient.basalt_deltas.loop",

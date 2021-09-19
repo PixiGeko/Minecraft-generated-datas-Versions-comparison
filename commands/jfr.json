@@ -1,0 +1,6 @@
+{
+  "added": [
+    "jfr start",
+    "jfr stop"
+  ]
+}

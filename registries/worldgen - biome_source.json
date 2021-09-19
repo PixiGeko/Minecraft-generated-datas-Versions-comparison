@@ -4,5 +4,8 @@
     "minecraft:fixed",
     "minecraft:multi_noise",
     "minecraft:the_end"
+  ],
+  "removed": [
+    "minecraft:vanilla_layered"
   ]
 }

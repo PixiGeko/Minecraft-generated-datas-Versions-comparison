@@ -1,4 +1,7 @@
 {
+  "added": [
+    "minecraft:surface_relative_threshold"
+  ],
   "common": [
     "minecraft:carving_mask",
     "minecraft:cave_surface",
